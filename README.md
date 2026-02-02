@@ -16,7 +16,7 @@ Track and farm crypto airdrops systematically. Never miss a free token drop agai
 
 ```bash
 # Clone the skill
-clawdbot skill install https://github.com/AutoMatsSE/airdrop-hunter-pro
+clawdbot skill install https://github.com/matssjodin/airdrop-hunter-pro
 
 # Or use directly
 node scripts/airdrop-cli.js list
@@ -54,7 +54,7 @@ node scripts/airdrop-cli.js track polymarket
 ## Install as Clawdbot Skill
 
 ```bash
-clawdbot skill install https://github.com/AutoMatsSE/airdrop-hunter-pro
+clawdbot skill install https://github.com/matssjodin/airdrop-hunter-pro
 ```
 
 Then use:
