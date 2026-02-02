@@ -1,0 +1,236 @@
+{
+  "lastUpdated": "2026-02-01T20:00:00Z",
+  "airdrops": [
+    {
+      "id": "polymarket",
+      "name": "Polymarket",
+      "status": "confirmed",
+      "type": "mainnet",
+      "chain": "polygon",
+      "estimatedValue": { "min": 500, "max": 5000 },
+      "deadline": "Q1-Q2 2026",
+      "deadlineDate": null,
+      "difficulty": 2,
+      "confidence": 95,
+      "requirements": [
+        { "task": "Create account", "weight": 10 },
+        { "task": "Trade on prediction markets", "weight": 40 },
+        { "task": "Provide liquidity", "weight": 30 },
+        { "task": "Trade multiple markets", "weight": 20 }
+      ],
+      "tips": [
+        "Betting >$500 puts you in top 10% of users",
+        "Profitability matters - try to win your bets",
+        "Liquidity provision is weighted heavily",
+        "Trade across different market categories"
+      ],
+      "links": {
+        "website": "https://polymarket.com",
+        "twitter": "https://twitter.com/Polymarket"
+      },
+      "fundingRaised": "$2.3B",
+      "valuation": "$9B"
+    },
+    {
+      "id": "megaeth",
+      "name": "MegaETH",
+      "status": "confirmed",
+      "type": "testnet",
+      "chain": "ethereum-l2",
+      "estimatedValue": { "min": 300, "max": 2000 },
+      "deadline": "January 2026",
+      "deadlineDate": "2026-01-31",
+      "difficulty": 3,
+      "confidence": 90,
+      "requirements": [
+        { "task": "Use testnet", "weight": 30 },
+        { "task": "Interact with dApps", "weight": 30 },
+        { "task": "Hold The Fluffle NFT (5% supply)", "weight": 40 }
+      ],
+      "tips": [
+        "The Fluffle NFT holders get minimum 5% of supply",
+        "Testnet interaction is confirmed to matter",
+        "TGE scheduled for January 2026"
+      ],
+      "links": {
+        "website": "https://megaeth.com",
+        "testnet": "https://testnet.megaeth.com"
+      },
+      "fundingRaised": "$107M",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "monad",
+      "name": "Monad",
+      "status": "likely",
+      "type": "testnet",
+      "chain": "monad",
+      "estimatedValue": { "min": 500, "max": 3000 },
+      "deadline": "Q2 2026",
+      "deadlineDate": null,
+      "difficulty": 2,
+      "confidence": 85,
+      "requirements": [
+        { "task": "Join Discord", "weight": 15 },
+        { "task": "Get 'Nad' role", "weight": 15 },
+        { "task": "Use testnet", "weight": 40 },
+        { "task": "Use ecosystem dApps", "weight": 30 }
+      ],
+      "tips": [
+        "The 'Nad' Discord role is important",
+        "Testnet launched Feb 19, 2025",
+        "Quality > quantity for interactions",
+        "Mainnet expected Q2 2026"
+      ],
+      "links": {
+        "website": "https://monad.xyz",
+        "discord": "https://discord.gg/monad",
+        "testnet": "https://testnet.monad.xyz"
+      },
+      "fundingRaised": "$244M",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "metamask",
+      "name": "MetaMask",
+      "status": "likely",
+      "type": "usage",
+      "chain": "multi",
+      "estimatedValue": { "min": 1000, "max": 10000 },
+      "deadline": "Unknown (Soon)",
+      "deadlineDate": null,
+      "difficulty": 1,
+      "confidence": 80,
+      "requirements": [
+        { "task": "Use MetaMask wallet", "weight": 40 },
+        { "task": "High transaction count", "weight": 30 },
+        { "task": "Use MetaMask Swaps", "weight": 20 },
+        { "task": "Bridge via MetaMask", "weight": 10 }
+      ],
+      "tips": [
+        "CEO confirmed token 'sooner than expected'",
+        "30M+ monthly active users - competition is high",
+        "Use MetaMask features (Swaps, Bridge) not just as wallet",
+        "MetaMask Rewards program tracks activity"
+      ],
+      "links": {
+        "website": "https://metamask.io",
+        "twitter": "https://twitter.com/MetaMask"
+      },
+      "fundingRaised": "Part of ConsenSys",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "hyperliquid-s2",
+      "name": "Hyperliquid Season 2",
+      "status": "likely",
+      "type": "mainnet",
+      "chain": "hyperliquid",
+      "estimatedValue": { "min": 500, "max": 5000 },
+      "deadline": "Unknown",
+      "deadlineDate": null,
+      "difficulty": 3,
+      "confidence": 75,
+      "requirements": [
+        { "task": "Trade on Hyperliquid", "weight": 50 },
+        { "task": "Provide liquidity", "weight": 30 },
+        { "task": "Consistent activity", "weight": 20 }
+      ],
+      "tips": [
+        "Season 1 distributed 274M HYPE to 94K users",
+        "Average S1 drop was 2,915 HYPE",
+        "Trading volume weighted logarithmically",
+        "Consistency matters more than one-time volume"
+      ],
+      "links": {
+        "website": "https://hyperliquid.xyz",
+        "app": "https://app.hyperliquid.xyz"
+      },
+      "fundingRaised": "Self-funded",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "linea",
+      "name": "Linea",
+      "status": "likely",
+      "type": "mainnet",
+      "chain": "ethereum-l2",
+      "estimatedValue": { "min": 200, "max": 1500 },
+      "deadline": "Unknown",
+      "deadlineDate": null,
+      "difficulty": 2,
+      "confidence": 70,
+      "requirements": [
+        { "task": "Bridge to Linea", "weight": 20 },
+        { "task": "Collect LXP points", "weight": 40 },
+        { "task": "Use ecosystem dApps", "weight": 30 },
+        { "task": "Hold POAPs/NFTs", "weight": 10 }
+      ],
+      "tips": [
+        "LXP points program is active",
+        "Consensys-backed (same as MetaMask)",
+        "Focus on the official Voyage campaigns"
+      ],
+      "links": {
+        "website": "https://linea.build",
+        "bridge": "https://bridge.linea.build"
+      },
+      "fundingRaised": "Part of ConsenSys",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow Wallet",
+      "status": "likely",
+      "type": "usage",
+      "chain": "multi",
+      "estimatedValue": { "min": 200, "max": 1000 },
+      "deadline": "Soon",
+      "deadlineDate": null,
+      "difficulty": 1,
+      "confidence": 70,
+      "requirements": [
+        { "task": "Use Rainbow wallet", "weight": 50 },
+        { "task": "Earn Rainbow Points", "weight": 40 },
+        { "task": "Refer friends", "weight": 10 }
+      ],
+      "tips": [
+        "Points program is active",
+        "TGE expected soon",
+        "Use it as your daily wallet"
+      ],
+      "links": {
+        "website": "https://rainbow.me",
+        "app": "https://rainbow.me/download"
+      },
+      "fundingRaised": "$18M",
+      "valuation": "Unknown"
+    },
+    {
+      "id": "rabby",
+      "name": "Rabby Wallet",
+      "status": "possible",
+      "type": "usage",
+      "chain": "multi",
+      "estimatedValue": { "min": 100, "max": 500 },
+      "deadline": "Unknown",
+      "deadlineDate": null,
+      "difficulty": 1,
+      "confidence": 50,
+      "requirements": [
+        { "task": "Use Rabby wallet", "weight": 60 },
+        { "task": "Earn Rabby Points", "weight": 40 }
+      ],
+      "tips": [
+        "Points program active",
+        "DeBank ecosystem",
+        "Great security features"
+      ],
+      "links": {
+        "website": "https://rabby.io"
+      },
+      "fundingRaised": "Unknown",
+      "valuation": "Unknown"
+    }
+  ]
+}
